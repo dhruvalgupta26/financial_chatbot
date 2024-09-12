@@ -1,0 +1,15 @@
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+python-dotenv
+streamlit
+langchain_groq
+langchain_community
+langchain_text_splitters
+langchain_huggingface
+langchain_core
+langchain_pinecone
+pinecone-client[grpc]

@@ -15,7 +15,7 @@ import warnings
 import os
 warnings.filterwarnings("ignore")
 
-groq_api_key = "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"
+groq_api_key = "your api key"
 
 
 llm=ChatGroq(
